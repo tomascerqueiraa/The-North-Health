@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">911582807728</string>
+    <string name="google_api_key" translatable="false">AIzaSyAI3QG8LZFC_LqPqYb3v_h_9oWkKnlBavA</string>
+    <string name="google_app_id" translatable="false">1:911582807728:android:3b8f23cbf30f5b96601d75</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAI3QG8LZFC_LqPqYb3v_h_9oWkKnlBavA</string>
+    <string name="google_storage_bucket" translatable="false">northhealth-65f98.firebasestorage.app</string>
+    <string name="project_id" translatable="false">northhealth-65f98</string>
+</resources>

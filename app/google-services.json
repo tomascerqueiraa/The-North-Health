@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911582807728",
+    "project_id": "northhealth-65f98",
+    "storage_bucket": "northhealth-65f98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911582807728:android:3b8f23cbf30f5b96601d75",
+        "android_client_info": {
+          "package_name": "upca.pm.northhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3QG8LZFC_LqPqYb3v_h_9oWkKnlBavA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
